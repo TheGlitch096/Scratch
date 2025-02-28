@@ -1,1 +1,1 @@
-Uload of Avali Scratch TTF for aliucord
+Uload of Avali Scratch TTF for aliucord, uses THEMER plugin. 
