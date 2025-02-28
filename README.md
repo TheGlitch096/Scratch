@@ -1,6 +1,6 @@
 Upload of Avali Scratch TTF and more for aliucord, uses THEMER plugin. 
 
-Use Avali Scratch (2).ttf for my custom edited version with imprived readability
+Use Avali Scratch (2).ttf for my custom edited version with improved readability
 
 
 Use Roundfeather-Regular.ttf for the more writing-style and rounded version of avali scratch.
